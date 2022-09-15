@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[308],{3629:e=>{e.exports=JSON.parse('{"label":"greetings","permalink":"/ITDPlaybook/blog/tags/greetings","allTagsPath":"/ITDPlaybook/blog/tags","count":1}')}}]);
